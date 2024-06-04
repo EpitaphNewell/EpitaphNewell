@@ -1,2 +1,2 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Epitaph%20Den-8A2BE2">
-<div class="tenor-gif-embed" data-postid="26135356" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/chara-undertale-gif-26135356"></a><a href="https://tenor.com/search/chara-stickers"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="26135356" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/chara-undertale-gif-26135356">Chara Undertale Sticker</a>from <a href="https://tenor.com/search/chara-stickers">Chara Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
