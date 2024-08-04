@@ -13,8 +13,14 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EpitaphNewell&theme=github-dark-dimmed&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=EpitaphNewell&theme=github-dark-dimmed&card_width=500" alt="GitHub Streak" />
+  </a>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpitaphNewell&hide_progress=false" alt="Top Langs" style="margin-left: 20px;" />
+</div>
+
 <div align="center">
   <img src="https://i.ibb.co/Fmyc11Q/makesweet-9r3yuo.gif" width="210" height="149" alt="Beelzebub" border="0" />
   
