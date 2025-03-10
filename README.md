@@ -1,13 +1,11 @@
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 20px;">
-      <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua"/><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/><br>
+    <div style="margin-right: 20px; display: flex; flex-direction: column; justify-content: center;">
+      <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white" alt="Lua"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"/>
     </div>
-    <div>
-      <img src="https://images.cooltext.com/5704079.gif" width="273" height="105" alt="Epitaph"/>
-    </div>
+    <img src="https://images.cooltext.com/5704079.gif" width="273" height="105" alt="Epitaph"/>
   </div>
 </div>
 <hr>
