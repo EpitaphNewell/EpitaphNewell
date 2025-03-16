@@ -29,6 +29,35 @@
 </div>
 <hr></hr>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/EpitaphNewell/color_print">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=epitaphnewell&repo=color_print" alt="Color Print Repository" />
+        </a>
+      </td>
+      <td align="center" width="50%"> 
+        <a href="https://github.com/EpitaphNewell/Discord-Bot-GUI-Message-Utility-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=epitaphnewell&repo=Discord-Bot-GUI-Message-Utility-" alt="Discord-Bot-GUI-Message-Utility-" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EpitaphNewell/Age-Of-History-Publisher">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=epitaphnewell&repo=Age-Of-History-Publisher" alt="Age-Of-History-Publisher" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EpitaphNewell/MySite">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=epitaphnewell&repo=MySite" alt="MySite" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!--
 <div align="right">
   <img src="https://i.ibb.co/nNmppdWY/3c29d1ca33e1f5a2f3fdfedae2d13979.jpg" width="160" height="173" alt="image1"/>
