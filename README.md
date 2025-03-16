@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpitaphNewell&hide_progress=false" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitaphnewell&layout=compact" alt="Top Langs" />
       </td>
       <td align="center" valign="middle">
         <span style="display: flex; justify-content: center; align-items: center;">
