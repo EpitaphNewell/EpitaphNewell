@@ -64,9 +64,3 @@
 <div align="center">
   <img src="https://github.com/seriouslych/seriouslych/blob/main/arch.png?raw=true" height="100" width="200"/>
 </div>
-
-<!--
-<div align="right">
-  <img src="https://i.ibb.co/nNmppdWY/3c29d1ca33e1f5a2f3fdfedae2d13979.jpg" width="160" height="173" alt="image1"/>
-</div>
-!-->
